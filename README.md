@@ -9,16 +9,6 @@
 Construindo páginas para internet com Bootstrap
 https://github.com/MottoMottoBR/aula_bootstrap
 
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 
 
 
