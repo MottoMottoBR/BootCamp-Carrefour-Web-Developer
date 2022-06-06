@@ -35,7 +35,7 @@ src="https://camo.githubusercontent.com/8a456e97026b26d94393f7d9d28444cd44019184
    width="500" height="300">
    <br>
    <br>
-  3.  Academia Dio
+  4.  Academia Dio
     Recriando a Interface do Netflix
     [MottoMottoBR/academia_dio (github.com)](https://github.com/MottoMottoBR/academia_dio)
     
